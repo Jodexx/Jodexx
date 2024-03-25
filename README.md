@@ -1,6 +1,6 @@
-<!-- 👋 Hi, I’m Jodex
+👋 Hi, I’m Jodex
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, JS, C++, C# -->
+- 🌱 I’m currently learning Java, JS, C++, C#
 
   <img src="https://komarev.com/ghpvc/?username=Jodexx&style=flat-square&color=blue" alt=""/>
   <h1>
