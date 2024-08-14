@@ -9,6 +9,5 @@
   </h1>
   <h2>:fire: My Stats : </h2>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jodexx&theme=dark&background=000000"/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodexx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/?username=Jodexx&theme=dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodexx&layout=compact"/>
